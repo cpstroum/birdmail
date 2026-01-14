@@ -1,3 +1,8 @@
+<img
+  src="https://github.com/user-attachments/assets/c32d28a8-f2aa-4b66-bf30-ffb4333685bb"
+  alt="Birdmail project"
+  width="150"
+/>
 # birdmail
 
 Birdmail is an offline, single-purpose ambient device that plays bird calls through the Circuit Playground Bluefruit’s onboard speaker while showing simple, non-text visuals on the TFT Gizmo. It's a tiny screen doing visuals and a speaker doing birds.
